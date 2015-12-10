@@ -27,6 +27,7 @@
     "url": "https://github.com/dchester/epilogue/issues"
   },
   "license": "MIT",
+  "private": true,
   "keywords": [
     "sequelize",
     "sequelizejs",
